@@ -1,0 +1,6 @@
+[submodule "ps/pokemon-showdown-client"]
+	path = ps/pokemon-showdown-client
+	url = https://github.com/baskuit/pokemon-showdown-client
+[submodule "ps/pokemon-showdown"]
+	path = ps/pokemon-showdown
+	url = https://github.com/baskuit/pokemon-showdown
